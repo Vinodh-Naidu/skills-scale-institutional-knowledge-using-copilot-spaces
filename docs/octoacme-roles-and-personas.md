@@ -444,7 +444,7 @@ Business Analysts translate business requirements and customer needs into clear,
 ## RACI Mapping for Common Activities
 
 | Activity | PM | PdM | Dev | QA | Delivery | TPM | Release | DevOps | Security | Data | UX | Support | BA |
-|----------|----|----|-----|----|---------|----|---------|--------|----------|------|----|---------|----|
+|----------|----|----|-----|----|---------|----|---------|--------|----------|------|----|---------|----|----------|
 | Project Planning | A | C | I | C | C | R | I | I | I | I | I | I | C |
 | Design & Architecture | C | C | R | I | I | C | I | C | C | I | C | I | I |
 | Acceptance Criteria | I | R | C | C | C | I | I | I | I | I | C | I | R |
